@@ -8,4 +8,4 @@ Responsive Design: The website is styled to ensure it works well on various scre
 Technologies Used
 HTML: For structuring the content and layout of the pages.
 CSS: For styling the website and creating a responsive design.
-How to View the Website link:
+How to View the Website link:https://sansaidev.github.io/First-website/
